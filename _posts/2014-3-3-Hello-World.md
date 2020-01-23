@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: Day 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## 1. Desktop Application with Electron
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+### Day 1: January 23, Wednesday
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+**Project:** Electron Weather App
+
+**Progress:** Completed project!
+
+**Thoughts:** I had done this project earlier following a YouTube Tutorial. This time I did it from scratch myself. 
+
+**Also:** Re-did JavaScript course challenges and a refresher on JS Basics. Pens linked below.
+
+**Link to Work:** -  [JavaScript Tip Calculator](https://codepen.io/ayaan-irshad/pen/eYmxrdP), [JavaScript Challenge](https://codepen.io/ayaan-irshad/pen/OJPdoJR), [Another Challenge](https://codepen.io/ayaan-irshad/pen/RwNvBJX) — CodePen
+
+                     [Electron Weather](https://github.com/ayaan-irshad/electron-weather) — GitHub
+
+---
