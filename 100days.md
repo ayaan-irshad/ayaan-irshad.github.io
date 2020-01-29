@@ -29,7 +29,6 @@ This is part of Alexander Kallaway’s [100DaysOfCode](https://github.com/Kallaw
 **Also:** Re-did JavaScript course challenges and a refresher on JS Basics. Pens linked below.
 
 **Link to Work:** -  [JavaScript Tip Calculator](https://codepen.io/ayaan-irshad/pen/eYmxrdP), [JavaScript Challenge](https://codepen.io/ayaan-irshad/pen/OJPdoJR), [Another Challenge](https://codepen.io/ayaan-irshad/pen/RwNvBJX) — CodePen
-
                      [Electron Weather](https://github.com/ayaan-irshad/electron-weather) — GitHub
 
 ---
